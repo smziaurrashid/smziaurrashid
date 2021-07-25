@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ---
 
@@ -35,6 +35,6 @@
 <a href="https://linkedin.com/in/ziaurrashid"><img src="https://img.shields.io/badge/-ziaurrashid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:smziaurrashid@gmail.com"><img src="https://img.shields.io/badge/-smziaurrashid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/smziaurrashid.info"><img src="https://img.shields.io/badge/-@smziaurrashid.info-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@smziaurashid-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=ErYL4q8AAAAJ&hl=en"><img src="https://img.shields.io/badge/-S M Zia Ur Rashid-BD081C?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+<a href="https://www.twitter.com/smziaurrashid"><img src="https://img.shields.io/badge/-@smziaurashid-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
