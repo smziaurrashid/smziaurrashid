@@ -1,6 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 👋 Hi, I’m @smziaurrashid
-- 👀 I’m interested in cyber security and currently working with @Augmedix as Information Security Specialist.
+- 👀 I’m currently working with @Augmedix as Information Security Specialist; I am also Red Team Researcher @synack
+- Research Interest: Information Security, AI/ML/DL Security, Netwrok Security, IoT Security, Cyber-Physical Security
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,7 +18,7 @@
 ### Github Activity ✔:
 
 <a href="https://github.com/smziaurrashid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smziaurrashid&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smziaurrashid&theme=blue-green" />
   </a>
 
 <a href="https://github.com/smziaurrashid">
