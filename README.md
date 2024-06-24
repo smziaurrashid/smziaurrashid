@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 👋 Hi, I’m @smziaurrashid
-- 👀 I’m currently working with @Augmedix as Information Security Specialist; I am also Red Team Researcher @synack
+- 👀 I’m currently working with Paycom as Application Security Analyst. I recently graduated with MS in Cyber Security from University of Tulsa.
 - Research Interest: Information Security, AI/ML/DL Security, Netwrok Security, IoT Security, Cyber-Physical Security
 
 ### 🛠 &nbsp;Tech Stack
